@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there My name is FLorian👋
 
-<!--
-**FARKAL800/FARKAL800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Hello World, I'm Florian!](assets/banner.gif)](https://github.com/FARKAL800)
+Background GIF by [ArtStation](https://www.pinterest.fr/pin/515310382374490235/) on [Pinterest](https://www.pinterest.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florian-finello-701aa7175/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:florian.finello@gmail.com?subject=Hello%20Florian,%20From%20Github)
+
+</div>
+
+- 🔭 I’m currently working as a software developper principaly on GUI 
+- 🌱 I’m currently learning aws in order to become solution architect associate  and pass the certifiacation
+- 🛠️ I'm a passionate C++ enthusiast and avid Qt aficionado, showcasing its power through various projects.
+- 🏛️ I take pride in emphasizing code architecture while adhering to S.O.L.I.D principles.
+  
+<div align="center">
+
+## 💻 My Tech Stack:
+
+[![C++, Qt, Cmake, Gitlab, Aws, Terraform, fastapi](https://skillicons.dev/icons?i=cpp,qt,cmake,gitlab,aws,terraform,fastapi)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARKAL800&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+</div>
