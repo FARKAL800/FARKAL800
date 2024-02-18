@@ -1,7 +1,10 @@
-# Hi there My name is FLorian👋
+
+<h2 align="center">
+    Hi there My name is Florian <img src="https://media.giphy.com/media/HQtGNTdzXP6izpGOBS/giphy.gif" width="25">
+</h2>
 
 <div align="center">
-
+  
 [![Hello World, I'm Florian!](assets/banner.gif)](https://github.com/FARKAL800)
 Background GIF by [ArtStation](https://www.pinterest.fr/pin/515310382374490235/) on [Pinterest](https://www.pinterest.com/).
 
@@ -11,9 +14,9 @@ Background GIF by [ArtStation](https://www.pinterest.fr/pin/515310382374490235/)
 </div>
 
 - 🔭 I’m currently working as a software developper principaly on GUI 
-- 🌱 I’m currently learning aws in order to become solution architect associate  and pass the certifiacation
+- 🌱 I’m currently learning aws in order to become solution architect associate  and pass the certification
 - 🛠️ I'm a passionate C++ enthusiast and avid Qt aficionado, showcasing its power through various projects.
-- 🏛️ I take pride in emphasizing code architecture while adhering to S.O.L.I.D principles.
+- 🏛️ I take satisfaction in emphasizing code architecture while adhering to S.O.L.I.D. principles.
   
 <div align="center">
 
