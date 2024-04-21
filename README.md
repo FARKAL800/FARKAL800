@@ -14,7 +14,7 @@ Background GIF by [ArtStation](https://www.pinterest.fr/pin/515310382374490235/)
 </div>
 
 - 🔭 I’m currently working as a software developper principaly on GUI 
-- 🌱 I’m currently learning aws in order to become solution architect associate  and pass the certification
+- 🌱 I’m currently learning fastapi in order to create REST API
 - 🛠️ I'm a passionate C++ enthusiast and avid Qt aficionado, showcasing its power through various projects.
 - 🏛️ I take satisfaction in emphasizing code architecture while adhering to S.O.L.I.D. principles.
   
@@ -22,7 +22,7 @@ Background GIF by [ArtStation](https://www.pinterest.fr/pin/515310382374490235/)
 
 ## 💻 My Tech Stack:
 
-[![C++, Qt, Cmake, Gitlab, Aws, Terraform, fastapi](https://skillicons.dev/icons?i=cpp,qt,cmake,gitlab,aws,terraform,fastapi)](https://skillicons.dev)
+[![C++, Qt, Cmake, Gitlab, Aws, Terraform, python, fastapi](https://skillicons.dev/icons?i=cpp,qt,cmake,gitlab,aws,terraform,fastapi)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
