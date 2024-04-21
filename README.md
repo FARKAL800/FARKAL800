@@ -22,7 +22,7 @@ Background GIF by [ArtStation](https://www.pinterest.fr/pin/515310382374490235/)
 
 ## 💻 My Tech Stack:
 
-[![C++, Qt, Cmake, Gitlab, Aws, Terraform, python, fastapi](https://skillicons.dev/icons?i=cpp,qt,cmake,gitlab,aws,terraform,fastapi)](https://skillicons.dev)
+[![C++, Qt, Cmake, Gitlab, Aws, Terraform, Python, fastapi](https://skillicons.dev/icons?i=cpp,qt,cmake,gitlab,aws,terraform,fastapi)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
